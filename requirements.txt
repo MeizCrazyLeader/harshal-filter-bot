@@ -40,6 +40,6 @@ apscheduler
 pyshorteners
 pyromod
 colorama
-
+script
 
   
